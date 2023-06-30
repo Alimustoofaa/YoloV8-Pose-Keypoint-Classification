@@ -3,5 +3,4 @@ torch
 streamlit
 pydantic
 ultralytics
-glob
 numpy
